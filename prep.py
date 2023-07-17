@@ -76,8 +76,7 @@
 
 
 for c in 'hello':
-    print(c)
-
+    print(c) 
 
 
 
