@@ -1,0 +1,42 @@
+Document AI
+
+1.Manage the entire unstructured document lifecycle in one unified solution
+2.Reduce the manual document processing -> minimise the time and setup cost and accelerate the process and deployment.
+3.Using google API’s we can achieve the high level accuracy.
+4.We can use the document data to gain more insights about the customers product.
+
+
+Automate the document processing workflows 
+
+-> Takes unstructured data from documents.
+
+Uses
+- [ ] Pre process the document with image quality detection. 
+- [ ] Extract text and layout info from document files.
+- [ ] We can get key value pair in structured forms.
+- [ ] Document Classification 
+- [ ] Store, Search, Organise , Govern and Analyse. (Document AI workspace) 
+
+
+Types of processor 
+1. Document OCR 
+2. Form Parser
+3. Specialised  Classifier 
+
+Using Document AI processors 
+
+Step 1 : Choose the processor. (Acc to use case)
+Step 2: Create the processor (Document AI API) 
+Step 3: Send the document (For processing)
+
+
+# HITL - Human In the loop -> Human verification and corrections to ensure the accuracy of data extracted by Document AI processors for use in many critical business ideas.
+
+
+How ocr is different from form parser in python? 
+
+1. OCR (Optical Character Recognition) is the process of detecting and extracting text in images through Computer Vision.
+2. Document Parsing involves examining the data in a document and extracting useful information. 
+
+
+
