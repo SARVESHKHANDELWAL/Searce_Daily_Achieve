@@ -166,7 +166,7 @@ def func3(a, b=1,*args,d,e=True):
     print(a,b,c,d,e)
 
 
-func3()
+# func3(2,{3,4})
 
 
 
