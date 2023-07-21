@@ -121,5 +121,8 @@ def factcah(n,*,cache):
 cache = {}
 
 
-print(factcah(4,cache)) 
+print(factcah(4,cache=cache)) 
+
+
+print(cache)
  
