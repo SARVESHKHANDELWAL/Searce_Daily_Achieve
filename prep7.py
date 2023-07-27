@@ -133,8 +133,8 @@ grid = [(x,y)
 for x,y in grid:
 	print(x,y)
 	
-grid_extended = [((x,y): math.hypot(x,y) for x,y in grid)]
+# grid_extended = [((x,y): math.hypot(x,y) for x,y in grid)]
 
-for x,y,z in grid_extended:
-	print(x,y,z)
+# for x,y,z in grid_extended:
+# 	print(x,y,z)
 
