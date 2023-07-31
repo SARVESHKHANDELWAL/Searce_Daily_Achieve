@@ -90,5 +90,3 @@ data={"marks":50, "age":20, "rank":5}
 s=json.dumps(data, sort_keys=True)
 print(s)
 
-
-
